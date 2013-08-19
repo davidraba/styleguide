@@ -30,7 +30,7 @@ at the end of every file. A single line feed character is used for new lines.
 Language Specific Guides
 ------------------------
 
- + [HTML(5)](html/README.md)
- + [Javascript](Javascript.md)
- + [CSS](CSS.md)
- + [PHP](PHP.md)
+ + [HTML(5)](html/)
+ + [Javascript](javascript/)
+ + [CSS](css/)
+ + [PHP](php/)
