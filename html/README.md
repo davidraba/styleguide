@@ -2,7 +2,7 @@ HTML(5)
 =======
 
 Each HTML document starts with a the [HTML5 doctype][1]. All documents will
-consist of at least an <html>, <head>, and <body> tag. Documents markup is
+consist of at least an ``<html>, <head>, and <body>`` tag. Documents markup is
 well-formed and properly nested. Each opening tag has a matching closing tag or
 is self-closing. 
 
