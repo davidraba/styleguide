@@ -12,7 +12,7 @@ Semantic Markup
 Markup shall be [semantic][2], meaning, the tags used to markup content will be
 reflective on the intention of the markup itself. Briefly, if something is a
 list, it shall be marked up as a list (``<ol>``, ``<ul>``, ``<dl>`` as
-appropriate) rather than just a set of <span> or <p> tags in sequence.
+appropriate) rather than just a set of ``<span>`` or ``<p>`` tags in sequence.
 
 Markup shall be accessible per section [508][3].
 
