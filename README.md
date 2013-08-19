@@ -27,6 +27,18 @@ be indented by two tabs offset from the starting line of code.
 All trailing white space should be removed. A final newline should be inserted
 at the end of every file. A single line feed character is used for new lines.
 
+### Approach
+
+We use a [mobile first][1], approach to [progressively enhance][2] web
+applications in a [responsive][3] manner.
+
+### Support
+
+By policy we explicitly support the current browser version plus one version
+previous for major vendors. We make no effort to directly inhibit older browsers
+from functioning properly, however resources limit the extent to which we can
+test products and therefor testing is skipped on unsupported browsers/devices.
+
 Language Specific Guides
 ------------------------
 
@@ -34,3 +46,8 @@ Language Specific Guides
  + [Javascript](javascript/)
  + [CSS](css/)
  + [PHP](php/)
+
+
+[1]: http://www.lukew.com/ff/entry.asp?933
+[2]: http://en.wikipedia.org/wiki/Progressive_enhancement 
+[3]: http://en.wikipedia.org/wiki/Responsive_web_design
