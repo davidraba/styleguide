@@ -1,5 +1,5 @@
-Earthquake Hazards Program "HazDev" Styleguide
-==============================================
+EHP "HazDev" Styleguide
+=======================
 
 This project documents the coding style guide to be used by the Earthquake
 Hazards Program (EHP) Hazards Development (HazDev) team. This project should be
